@@ -8,7 +8,7 @@
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 
 - 💻 &nbsp;
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node)
 <!--   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
