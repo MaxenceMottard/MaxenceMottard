@@ -1,4 +1,6 @@
-### Hi there 👋
+<h2>Hello! I'm Maxence.</h2>
+
+<h3>:man_technologist:&nbsp;About Me </h3>
 
 <a href="https://github.com/elizedelabrida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxenceMottard&theme=dark&show_icons=true" />
