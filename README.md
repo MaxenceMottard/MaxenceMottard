@@ -26,7 +26,7 @@
   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<a href="https://github.com/elizedelabrida">
+<a href="https://github.com/MaxenceMottard">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxenceMottard&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceMottard&theme=dark&layout=compact" />
 </a>
