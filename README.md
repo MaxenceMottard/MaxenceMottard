@@ -26,7 +26,7 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <a href="https://github.com/MaxenceMottard">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxenceMottard&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxenceMottard&theme=dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceMottard&theme=dark&layout=compact" />
 </a>
 
